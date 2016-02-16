@@ -1,5 +1,7 @@
 # Behat Drupal Extension
 
+[![Join the chat at https://gitter.im/acbramley/drupalextension](https://badges.gitter.im/acbramley/drupalextension.svg)](https://gitter.im/acbramley/drupalextension?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 The Drupal Extension is an integration layer between [Behat](http://behat.org),
 [Mink Extension](https://github.com/Behat/MinkExtension), and Drupal. It
 provides step definitions for common testing scenarios specific to Drupal
